@@ -1,6 +1,6 @@
 {
-  "name": "Example Token",
-  "symbol": "EXMPL",
-  "description": "Example token from Solana Making a Token guide.",
+  "name": "Test Token",
+  "symbol": "TEST",
+  "description": "Just a test token.",
   "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/CompressedCoil/image.png"
 }
